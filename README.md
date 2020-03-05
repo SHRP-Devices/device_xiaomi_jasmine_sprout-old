@@ -1,2 +1,2 @@
 # SHRP For Jasmine_Sprout
-SkyHawk Recovery Project Device Tree For Mi 
+SkyHawk Recovery Project Device Tree For Mi A2
